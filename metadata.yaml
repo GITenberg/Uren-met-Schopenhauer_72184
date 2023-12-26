@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52404'
     url: http://www.gutenberg.org/2009/agents/52404
     wikipedia: https://nl.wikipedia.org/wiki/Bernard_van_der_Wijck
+covers:
+- cover_type: archival
+  image_path: 72184-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Schopenhauer, Arthur
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Arthur_Schopenhauer
     - https://de.wikipedia.org/wiki/Arthur_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72184#Uren-met-Schopenhauer
 gutenberg_issued: '2023-11-20'
 identifiers:
   gutenberg: '72184'
