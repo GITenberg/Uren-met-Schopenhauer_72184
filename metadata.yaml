@@ -1,0 +1,47 @@
+_repo: Uren-met-Schopenhauer_72184
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wijck, B. H. C. K. van der (Bernard Hendrik Cornelis Karel)
+    aliases:
+    - Wijck, Bernard Hendrik Cornelis Karel van der
+    - Van der Wijck, B. H. C. K. (Bernard Hendrik Cornelis Karel)
+    birthdate: 1836
+    deathdate: 1925
+    gutenberg_agent_id: '52404'
+    url: http://www.gutenberg.org/2009/agents/52404
+    wikipedia: https://nl.wikipedia.org/wiki/Bernard_van_der_Wijck
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: 1860
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+    - https://de.wikipedia.org/wiki/Arthur_Schopenhauer
+description: ''
+gutenberg_issued: '2023-11-20'
+identifiers:
+  gutenberg: '72184'
+language: nl
+pgterms:marc904: https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=MMKB24:075486000
+pgterms:marc905: 20221010114401schopenhau
+pgterms:marc906: '1916'
+pgterms:marc907: NL
+production_note: Wouter Franssen, Jeroen Hellingman, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg (Koninklijke Bibliotheek, The
+  Hague)
+publication_note: '  $aBaarn :$bHollandia-Drukkerij, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Boeken van wijsheid en schoonheid
+subjects:
+- !lcsh 'Philosophy'
+- !lcsh 'Schopenhauer, Arthur, 1788-1860'
+- !lcc 'B'
+- GITenberg
+title: Uren met Schopenhauer
+url: http://www.gutenberg.org/ebooks/72184
